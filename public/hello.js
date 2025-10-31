@@ -1,0 +1,1 @@
+console.log("Hello there! again from fcc, especially for Quality Assurance.")
